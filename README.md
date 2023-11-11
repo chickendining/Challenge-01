@@ -9,7 +9,7 @@ Your task is to build a simple web application that displays a list of Pokémon 
 ## Requirements
 
 - **Framework:** The application should be built using React.
-- **Styling:** Use Tailwind CSS for styling the application.
+- **Styling:** You can use any css libraly/framework of your choice.
 - **API Integration:** Fetch data from the PokeAPI.
 - **Features:**
   - Display a list of Pokémon.
