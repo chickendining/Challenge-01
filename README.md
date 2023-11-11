@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Pokédex Challenge! This project is designed as a take-home assignment for frontend developer candidates to demonstrate their skills in React, API integration, and modern web development practices.
+Welcome to the Pokédex Challenge! This project is designed as a take-home assignment for an intern frontend developer candidates to demonstrate their skills in React, API integration, and modern web development practices.
 
 Your task is to build a simple web application that displays a list of Pokémon using data from the [PokeAPI](https://pokeapi.co). The application should include features such as searching, pagination, and displaying details for each Pokémon.
 
