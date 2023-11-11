@@ -16,7 +16,6 @@ Your task is to build a simple web application that displays a list of Pokémon 
   - Implement search functionality to filter Pokémon by name.
   - Implement client-side pagination.
   - Display an image and details for each Pokémon in a card layout.
-- **Responsive Design:** The application should be responsive and work on both desktop and mobile devices.
 
 ## Evaluation Criteria
 
@@ -24,8 +23,6 @@ Your submission will be evaluated based on the following criteria:
 
 - **Functionality:** Does the application work as expected?
 - **Code Quality:** Is the code clean, well-organized, and properly commented?
-- **UI/UX Design:** Is the interface user-friendly and visually appealing?
-- **Performance:** Does the application perform well with efficient API usage and responsive design?
 
 ## Submission Guidelines
 
