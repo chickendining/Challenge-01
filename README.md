@@ -31,4 +31,7 @@ Your submission will be evaluated based on the following criteria:
 ![Searching example 2](screenshots/04-search2.PNG)
 ![Searching example 3 with next](screenshots/05-search5.PNG)
 
+## Extra Score
+- Use Github Actions or DevOps tools of your choice to deploy the project.
+
 ---
