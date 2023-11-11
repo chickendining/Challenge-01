@@ -33,20 +33,14 @@ Your submission will be evaluated based on the following criteria:
 - Submit a pull request to the original repository with your completed project.
 - In your pull request, include a brief description of your project and any special instructions for running it, if applicable.
 
-## Deadline
-
-Please submit your completed assignment by `MM/DD/YYYY`.
-
 ## Screenshots
+![Home page](screenshots/01-home.PNG)
+![After click the next button](screenshots/02-next.PNG)
+![Searching example 1](screenshots/03-search1.PNG)
+![Searching example 2](screenshots/04-search2.PNG)
+![Searching example 3 with next](screenshots/05-search5.PNG)
+
 
 (Include a few screenshots of your finished application here for reference)
 
-## Questions?
-
-If you have any questions or need further clarification about this assignment, feel free to open an issue in this repository, and we will respond as soon as possible.
-
-Good luck, and we look forward to seeing your creative solutions!
-
 ---
-
-*This project is for evaluation purposes only and is not intended for commercial use.*
